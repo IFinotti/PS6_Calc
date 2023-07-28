@@ -47,6 +47,6 @@ Para os usuários do sistema operacional Windows, disponibilizamos um arquivo ex
 
 Contribuições são bem-vindas! Se você quiser fazer alguma melhoria na calculadora ou detectou algum problema, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
-Esperamos que esta calculadora seja útil para você. Divirta-se calculando!
+Espero que esta calculadora seja útil para você. Divirta-se calculando!
 
 ---
