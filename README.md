@@ -2,7 +2,8 @@
 
 # Calculadora PySide6 em Python
 
-Este é o repositório do projeto de uma calculadora simples desenvolvida em Python utilizando a biblioteca PySide6. A calculadora pode ser executada em computadores com sistema operacional Windows através de um arquivo .exe disponível para download.
+Este é o repositório do projeto de uma calculadora simples desenvolvida em Python utilizando a biblioteca PySide6. A calculadora pode ser executada em computadores com sistema operacional Windows através de um arquivo .exe disponível para download:
+https://www.mediafire.com/file/lgdllj9k11azr38/calculadora.exe/file
 
 ## Funcionalidades
 
